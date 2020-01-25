@@ -25,5 +25,5 @@
 /datum/gear/gloves/duty
 	display_name = "gloves, duty"
 	path = /obj/item/clothing/gloves/thick/duty
-	cost = 2
+	cost = 3
 	allowed_branches = UNIFORMED_BRANCHES
